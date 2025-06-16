@@ -1,0 +1,13 @@
+# Core requirements
+gradio>=4.11.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# OpenAI for API format compatibility
+openai>=1.0.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Utilities
+tqdm>=4.66.1
