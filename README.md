@@ -6,8 +6,6 @@ A simple web application that uses a multimodal large language model (LLM) to pe
 
 - Upload images containing text
 - Extract text from images using advanced AI
-- Customize extraction with prompts
-- Modern and intuitive user interface
 - Support for various image formats
 
 ## Requirements
